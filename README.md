@@ -14,3 +14,5 @@ Possible future enhancements:
 * add soft knee option
 
 * catch inter sample peaks (relevant if used as a limiter)
+
+Programmed by: Deniz Deli, Christoph Binner, Christian Kastner as a study project at Technical University of Berlin in 2020
